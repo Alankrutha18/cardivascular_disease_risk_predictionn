@@ -82,18 +82,6 @@ Cardiovascular diseases are a leading cause of mortality worldwide, making this 
 
 ---
 
-## 📊 **Visualizations**
-
-### Correlation Heatmap
-![Heatmap](https://via.placeholder.com/800x400.png?text=Heatmap+of+Feature+Correlations)
-
-### AUC-ROC Curve for Logistic Regression (After SMOTE)
-![ROC Curve](https://via.placeholder.com/800x400.png?text=AUC-ROC+Curve+Logistic+Regression)
-
-### General Health Distribution
-![General Health](https://via.placeholder.com/800x400.png?text=General+Health+Distribution)
-
----
 
 ## 🚀 **How to Run**
 1. Clone the repository:
